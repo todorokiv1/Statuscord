@@ -2,7 +2,7 @@ const
   rpcGenerator = require("discordrpcgenerator"),
 
   // Add your client id in the index.js file
-  IMAGE = "The name of the image",
+  IMAGE = "todo",
   SONG = "The name of the song",
   ARTIST = "The artist of the song";
 
